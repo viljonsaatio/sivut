@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Viljo Talolan säätiö - kasvinjalostuksen tueksi",
+    "name": "Viljo Talolan säätiö - suomalaisen kasvinjalostuksen tueksi",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -42,27 +42,32 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/crop-128x128_1.png",
+    "favicon": false,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "mbrsiteDomain": "uqhoiqaitp",
+    "mbrsiteDomain": "88x3jmo1jb",
     "usedWebp": false,
-    "cookiesAlert": false,
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 7,
     "versionPublish": "5.8.14",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Viljo Talolan säätiö",
+        "meta_descr": "Säätiö myöntää apurahoja suomalaisen kasvinjalostuksen kehittämiseen.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
